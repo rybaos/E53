@@ -205,7 +205,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/..\/house_inside.png",
+         "image":"house_inside.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -966,7 +966,7 @@
         {
          "columns":32,
          "firstgid":225,
-         "image":"..\/..\/base_out_atlas.png",
+         "image":"base_out_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1988,7 +1988,7 @@
         {
          "columns":32,
          "firstgid":1249,
-         "image":"..\/..\/terrain_atlas.png",
+         "image":"terrain_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
